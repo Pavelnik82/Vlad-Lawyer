@@ -499,7 +499,7 @@
 
 .main-about__photo {
   position: relative;
-  background: url("/images/about-us/Lawayer-and-Books.jpg") center/cover no-repeat;
+  background: url("../images/about-us/Lawayer-and-Books.jpg") center/cover no-repeat;
   width: 520px;
   height: 520px;
   margin: 20px 40px 0px 20px;
